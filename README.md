@@ -14,7 +14,7 @@ Third party NPM modules used in this application are
 <li><a href="https://www.npmjs.com/package/request">request</a> -> To make http request</li>
 <li></li>
 </ul>
-
+Run the following commands to save following dependencies
 ```
 npm install request --save
 ```
