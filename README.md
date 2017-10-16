@@ -12,13 +12,15 @@ Google geo location API takes address and returns lattitude and longitude co-ord
 Third party NPM modules used in this application are
 <ul>
 <li><a href="https://www.npmjs.com/package/request">request</a> -> To make http request</li>
-<li></li>
+<li><a href="https://www.npmjs.com/package/yargs">yargs</a> -> To encode user input[to format the address given as input by user]</li>
 </ul>
 Run the following commands to save following dependencies
 ```
 npm install request --save
 ```
-
+```
+npm install yargs --save
+```
 <hr>
 For Reference,
 https://maps.googleapis.com/maps/api/geocode/json?address=1301%20lombard%20street%20philadelphia
