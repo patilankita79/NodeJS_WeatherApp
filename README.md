@@ -11,7 +11,7 @@ Google geo location API takes address and returns lattitude and longitude co-ord
 
 Third party NPM modules used in this application are
 <ul>
-<li><a href="https://www.npmjs.com/package/request">request</a></li>
+<li><a href="https://www.npmjs.com/package/request">request</a> -> To make http request</li>
 <li></li>
 </ul>
 
