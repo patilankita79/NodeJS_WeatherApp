@@ -31,4 +31,7 @@ https://maps.googleapis.com/maps/api/geocode/json?address=1301%20lombard%20stree
 To get the live weather data from the latitude and longitude passed, use Dark Sky Weather API, https://darksky.net/dev
 
 <hr>
+<img src="https://github.com/patilankita79/NodeJS_WeatherApp/blob/master/screenshots/Screenshot%202017-11-26%2015.47.19.png" />
+<img src="https://github.com/patilankita79/NodeJS_WeatherApp/blob/master/screenshots/Screenshot%202017-11-26%2015.46.56.png" />
+<img src="https://github.com/patilankita79/NodeJS_WeatherApp/blob/master/screenshots/Screenshot%202017-11-26%2015.59.05.png" />
 
