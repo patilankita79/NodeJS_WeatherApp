@@ -1,0 +1,16 @@
+{
+  "name": "weather-application-nodejs",
+  "version": "1.0.0",
+  "description": "A weather application which focuses on asynchronous javascript concept",
+  "main": "app-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankita Patil",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "request": "^2.83.0",
+    "yargs": "^9.0.1"
+  }
+}
