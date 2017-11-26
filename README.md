@@ -13,6 +13,7 @@ Third party NPM modules used in this application are
 <ul>
 <li><a href="https://www.npmjs.com/package/request">request</a> -> To make http request</li>
 <li><a href="https://www.npmjs.com/package/yargs">yargs</a> -> To encode user input[to format the address given as input by user]</li>
+  <li><a href="https://www.npmjs.com/package/axios">axios</a> -> Promise based HTTP client for the browser and node.js</li>
 </ul>
 Run the following commands to save following dependencies
 
