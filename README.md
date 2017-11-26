@@ -28,4 +28,7 @@ For Reference,
 https://maps.googleapis.com/maps/api/geocode/json?address=1301%20lombard%20street%20philadelphia
 
 <hr>
-To get the weather data from the latitude and longitude passed, use Dark Sky Weather API, https://darksky.net/dev
+To get the live weather data from the latitude and longitude passed, use Dark Sky Weather API, https://darksky.net/dev
+
+<hr>
+
